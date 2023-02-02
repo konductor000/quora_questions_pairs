@@ -20,6 +20,8 @@ As an example, the input question "How can I use R for machine learning?" return
     How can Python be used in machine learning?
     What are some computer vision libraries for R?
     How should I go about learning Machine Learning?
+ 
+ To see more examples see examples.txt
 
 ### Conclusion
 
